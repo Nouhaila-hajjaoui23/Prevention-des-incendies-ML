@@ -1,0 +1,56 @@
+# ===============================
+# Python
+# ===============================
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environments
+venv/
+env/
+.venv/
+ENV/
+.env/
+
+# ===============================
+# Jupyter Notebook
+# ===============================
+.ipynb_checkpoints/
+
+# ===============================
+# VS Code
+# ===============================
+.vscode/
+
+# ===============================
+# OS Files
+# ===============================
+.DS_Store
+Thumbs.db
+
+# ===============================
+# Logs
+# ===============================
+*.log
+
+# ===============================
+# Environment Variables
+# ===============================
+.env
+.env.*
+
+# ===============================
+# Large ML Model Files (Optional)
+# Uncomment if you don't want to upload models
+# ===============================
+*.pkl
+*.joblib
+*.h5
+*.pt
+
+# ===============================
+# Large Datasets (Optional)
+# Uncomment if needed
+# ===============================
+ *.csv
+# data/
