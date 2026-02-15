@@ -52,5 +52,5 @@ Thumbs.db
 # Large Datasets (Optional)
 # Uncomment if needed
 # ===============================
- *.csv
+*.csv
 # data/
